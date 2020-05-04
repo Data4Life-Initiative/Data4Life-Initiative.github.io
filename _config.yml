@@ -28,6 +28,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://data4life.se/" # the base hostname & protocol for your site, e.g. http://example.com
 #logo: "/assets/images/data4life.jpeg" 
 
+remote_theme: pmarsceill/just-the-docs
+
 twitter_username: igrantio
 github_username:  jekyll
 
