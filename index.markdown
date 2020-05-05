@@ -1,152 +1,25 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Home
 nav_order: 1
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Overview
 
-[Link to another page](another-page).
+Data4Life is an open source initiative that enables individuals to share their personal data with local communities and national authorities seeking to gather as much data as possible in order to make informed decisions about prioritised actions and resourcing. It  addresses the fundamentals of data availability as well as  concerns around digital surveillance and the appropriate use of personal data. The solution makes it easy for individuals to allow the use of personal health-related and location data for the public good (aka ‘data altruism’) by collecting both explicit consents and authorization to perform data subject requests according to article 15 in the GDPR. The solution supports individuals’ risk status  and decision-making and thereby saves lives and also leads society to an economic and social recovery by “unlocking the paralysis”. In other words, it helps people make decisions that will benefit society. Longer term, the Data4Life solution can also be used to prevent future outbreaks and enable preventive care.
 
-There should be whitespace between paragraphs.
+# The Key Benefits 
+The Data4Life solution provides the following benefits: 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Individuals have an app to assess for themselves the risk of their unknowingly transmitting the virus or and taking action accordingly. It also provides a means of contributing their in vivo data as well as posthumously for the public good. The solution has a human-centric approach to personal data (in line with MyData Principles) where individuals are empowered to control how their data is used. By giving control to individuals, concerns around digital surveillance can be addressed effectively. Via a location-based heatmap, the individual can be alerted and take action based on the following criteria: 
 
-# [](#header-1)Header 1
+1. They are at low risk of being infected  → Continue as far as possible to lead a normal life, such as going back to work 
+2. They are at medium risk of having contracted COVID-19 → Be cautious and continue to monitor ongoing developments 
+3. They are at high risk of having contracted COVID-19  → Self-isolate, get tested if start showing symptoms
+4. Verified as infected → Self-quarantine to protect others. Get tested for antibodies to enable verified immunity from a trusted testlab
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Local authorities can make informed decisions based on the data collected through Data4Life, optimizing public resources (e.g. identifying hotspots for sanitation, contact tracing, resource planning at nursing homes). By being transparent, authorities can create trust in society and reduce panic by using the collected data to refine public health recommendations e.g. around mass immunity.
 
-## [](#header-2)Header 2
+The data-using entity defines the purpose for which the data is collected. However, the data resides with the individual in a personal data vault and individuals can opt-in or opt-out from sharing their data, in real-time, for a particular purpose e.g. contributing data for research of risk alert systems. Data can be analysed without the data leaving the vault, collected data is aggregated preventing re-identification through using federated machine learning. Historic data can be repurposed by the data using entities with the explicit consent of individuals. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Nesting an ol in ul in an ol
-
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-  1. level 4 item (ol)
-  1. level 4 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-
-### And a task list
-
-- [ ] Hello, this is a TODO item
-- [ ] Hello, this is another TODO item
-- [x] Goodbye, this item is done
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+For the community at large: By re-using the contributed personal data for population health research, the solution also supports predictive health recommendations and helps to prevent the spread of a virus and future breakouts. The solution also opens up the possibility for posthumous data to be donated to the health and welfare authorities. 
