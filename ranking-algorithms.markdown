@@ -26,6 +26,7 @@ ISO 31000:2009 gives a list on how to deal with risk:
 Risk scoring is a 10 point scale, based on the following. Please note that this is done now for hackathon to demonstrate the solution. This personal risk ranking method shall be customisable depending on the country and area authorities. 
 
 ### Based on Age
+
 | Age          | Points          |
 |:-------------|:----------------|
 | 0-13			  |			 0	    	|
@@ -38,7 +39,7 @@ Risk scoring is a 10 point scale, based on the following. Please note that this 
 | 86+			  |			 5			|
 
 
-## Wellness Survey/Health Declaration: 
+### Wellness Survey/Health Declaration: 
 
 | Wellness Status          				       | Points   |
 |:---------------------------------------------|:---------|
@@ -48,7 +49,7 @@ Risk scoring is a 10 point scale, based on the following. Please note that this 
 | Had Cardiac Issues or Breathing difficulties |    4     | 
 | Shows symptoms for Corona				       |    5     | 
 
-## Location based hotspot trace score
+### Hoptspot Traving Score (based on location)
 
 
 | Hotspot visit status         			                     | Points   |
@@ -56,7 +57,7 @@ Risk scoring is a 10 point scale, based on the following. Please note that this 
 | If you have been in an area that has been marked high risk |    4     |
 
 
-## Contact Tracing
+### Contact Tracing Score
 If the person has been in touch with a contact for multiple times, the risk is substantially higher. 
 
 Personal: Risk Score and Recommendation 
