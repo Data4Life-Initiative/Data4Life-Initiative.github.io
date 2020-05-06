@@ -30,6 +30,11 @@ url: https://data4life-initiative.github.io # the base hostname & protocol for y
 twitter_username: igrantio
 github_username:  jekyll
 
+# Aux links for the upper right navigation
+aux_links:
+  "Data4Life Initiative in GitHub":
+    - "https://github.com/Data4Life-Initiative"
+
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 plugins:
