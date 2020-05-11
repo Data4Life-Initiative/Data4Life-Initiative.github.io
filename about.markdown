@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 nav_order: 99
 ---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 # The Data4Life Initiative
 

@@ -3,10 +3,11 @@ layout: default
 title: Legal and Regulatory
 nav_order: 3
 ---
+
 ## Table of contents
 {: .no_toc .text-delta }
 
-TOC
+1. TOC
 {:toc}
 
 ---
