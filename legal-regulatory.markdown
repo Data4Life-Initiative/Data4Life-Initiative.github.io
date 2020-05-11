@@ -3,6 +3,13 @@ layout: default
 title: Legal and Regulatory
 nav_order: 3
 ---
+## Table of contents
+{: .no_toc .text-delta }
+
+TOC
+{:toc}
+
+---
 
 # Introduction
 The COVID19-pandemic has taken the world by chock, and apart from the obvious health risks with getting infecting, measurements taken to control the spread have secondary impacts on both personal mental health and our economy.
